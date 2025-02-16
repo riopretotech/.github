@@ -1,4 +1,5 @@
-## Hi there 👋
+## Rio Preto Tech
+💻Comunidade de programadores para diseminar conhecimento de tecnologia e programação em Rio Preto e região.
 
 <!--
 
